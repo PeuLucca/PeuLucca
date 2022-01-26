@@ -1,4 +1,4 @@
-### Hi there, I'm using GitHub! 👋
+### Hello there. Welcome to my GitHub account! 👋
 
 <!--
 **PeuLucca/PeuLucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
