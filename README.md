@@ -1,4 +1,10 @@
-### Hello there. Welcome to my GitHub account, make yourself at home! 👋😄
+### Hi there, welcome to my GitHub page 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeuLucca&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeuLucca&theme=blue-green)
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PeuLucca)
 
 <!--
 **PeuLucca/PeuLucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
