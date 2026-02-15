@@ -1,22 +1,21 @@
-### Hi there, welcome to my GitHub page 👋
+<h1 align="center">Pedro de Lucca</h1>
+<p align="center">
+  Software Engineer • Front-End Specialist • Builder
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeuLucca&show_icons=true)
+---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeuLucca&theme=blue-green)
+### About Me
+- Front-End Engineer focused on **React, TypeScript, state architecture, and performance**
+- Building SaaS and AI-driven products
+- Interested in scalable systems, automation, and product engineering
+- Always optimizing latency, structure, and DX
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PeuLucca)
+---
 
-<!--
-**PeuLucca/PeuLucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+```txt
+Frontend   → React • TypeScript • Zustand • Redux • Expo
+Backend    → Node • FastAPI • PostgreSQL • Drizzle
+Infra      → Docker • Cloud Run • Fly.io • CI/CD
+AI Stack   → OpenRouter • LLM Orchestration • Embeddings
