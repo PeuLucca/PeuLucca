@@ -1,21 +1,29 @@
-<h1 align="center">Pedro de Lucca</h1>
-<p align="center">
-  Software Engineer • Front-End Specialist • Builder
-</p>
+<div align="center">
+
+<!-- HEADER ANIMADO -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Pedro+de+Lucca;Software+Engineer;Frontend+Specialist;AI+Builder;System+Architect" />
 
 ---
 
-### About Me
-- Front-End Engineer focused on **React, TypeScript, state architecture, and performance**
-- Building SaaS and AI-driven products
-- Interested in scalable systems, automation, and product engineering
-- Always optimizing latency, structure, and DX
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/Focus-Performance-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Scalable-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mindset-Builder-black?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PeuLucca&style=for-the-badge"/>
+
+</div>
 
 ---
 
-### Tech Stack
-```txt
-Frontend   → React • TypeScript • Zustand • Redux • Expo
-Backend    → Node • FastAPI • PostgreSQL • Drizzle
-Infra      → Docker • Cloud Run • Fly.io • CI/CD
-AI Stack   → OpenRouter • LLM Orchestration • Embeddings
+## SYSTEM PROFILE
+
+```yaml
+name: Pedro de Lucca
+role: Software Engineer
+specialty: Frontend Architecture
+location: Brazil
+focus:
+  - Performance Optimization
+  - AI Systems
+  - Scalable Platforms
+  - Developer Experience
