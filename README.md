@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Pedro+de+Lucca;Software+Engineer;Frontend+Specialist;AI+Builder;System+Architect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Pedro+de+Lucca;Software+Engineer;Frontend+Specialist;AI+Builder;" />
 
 ---
 
